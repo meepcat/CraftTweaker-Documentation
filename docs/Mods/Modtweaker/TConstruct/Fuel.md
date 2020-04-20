@@ -4,7 +4,7 @@ The `Fuel` package allows you to add Smeltery fuel fluids.
 
 
 ## Calling
-You can call the Alloy package using `mods.tconstruct.Fuel`
+You can call the Fuel package using `mods.tconstruct.Fuel`
 
 ## Add Fuel Recipes
 
